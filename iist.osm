@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.3.3 (24650 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="8.624324" minlon="77.03207" maxlat="8.629081" maxlon="77.035251"/>
+
+ <node id="1" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6259110" lon="77.034644">
+ <node id="2" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6258930" lon="77.034659">
+ <node id="3" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6258570" lon="77.034693">
+ <node id="4" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6258200" lon="77.034726">
+ <node id="5" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6257960" lon="77.034753">
+ <node id="6" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6257480" lon="77.034793">
+ <node id="7" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6257170" lon="77.034824">
+ <node id="8" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6257050" lon="77.034882">
+ <node id="9" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6257800" lon="77.034990">
+ <node id="10" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6257320" lon="77.034923">
+ <node id="11" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6257560" lon="77.034958">
+ <node id="12" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6257800" lon="77.034987">
+ <node id="13" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6258160" lon="77.035019">
+ <node id="14" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6258490" lon="77.035054">
+ <node id="15" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6258940" lon="77.035089">
+ <node id="16" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6259330" lon="77.035133">
+ <node id="17" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6260000" lon="77.035193">
+ <node id="18" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6260570" lon="77.035234">
+ <node id="19" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6260960" lon="77.035251">
+ <node id="20" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6262370" lon="77.035245">
+ <node id="21" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6263530" lon="77.035235">
+ <node id="22" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6264350" lon="77.035211">
+ <node id="23" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6265520" lon="77.035173">
+ <node id="24" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6266800" lon="77.035150">
+ <node id="25" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6268110" lon="77.035155">
+ <node id="26" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6269450" lon="77.035147">
+ <node id="27" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6270730" lon="77.035152">
+ <node id="28" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6271220" lon="77.035146">
+ <node id="29" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6272440" lon="77.035169">
+ <node id="30" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6273720" lon="77.035183">
+ <node id="31" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6275030" lon="77.035191">
+ <node id="32" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6276380" lon="77.035193">
+ <node id="33" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6277500" lon="77.035211">
+ <node id="34" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6278880" lon="77.035187">
+ <node id="35" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6280220" lon="77.035155">
+ <node id="36" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6281260" lon="77.035102">
+ <node id="37" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6282420" lon="77.035055">
+ <node id="38" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6283510" lon="77.034997">
+ <node id="39" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6284490" lon="77.034915">
+ <node id="40" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6285480" lon="77.034836">
+ <node id="41" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6286330" lon="77.034754">
+ <node id="42" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6287040" lon="77.034669">
+ <node id="43" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6287750" lon="77.034581">
+ <node id="44" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6288490" lon="77.034502">
+ <node id="45" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6288990" lon="77.034411">
+ <node id="46" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6289430" lon="77.034311">
+ <node id="47" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6290050" lon="77.034205">
+ <node id="48" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6290460" lon="77.034093">
+ <node id="49" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6290810" lon="77.033979">
+ <node id="50" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6289870" lon="77.033942">
+ <node id="51" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6289010" lon="77.033904">
+ <node id="52" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6288310" lon="77.033880">
+ <node id="53" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6287200" lon="77.033842">
+ <node id="54" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6286280" lon="77.033812">
+ <node id="55" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6285250" lon="77.033785">
+ <node id="56" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6284160" lon="77.033747">
+ <node id="57" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6283130" lon="77.033709">
+ <node id="58" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6282160" lon="77.033696">
+ <node id="59" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6281100" lon="77.033700">
+ <node id="60" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6280520" lon="77.033617">
+ <node id="61" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6280630" lon="77.033523">
+ <node id="62" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6280350" lon="77.033440">
+ <node id="63" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6279740" lon="77.033360">
+ <node id="64" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6278740" lon="77.033291">
+ <node id="65" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6277630" lon="77.033236">
+ <node id="66" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6276350" lon="77.033209">
+ <node id="67" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6275260" lon="77.033196">
+ <node id="68" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6274230" lon="77.033183">
+ <node id="69" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6273730" lon="77.033055">
+ <node id="70" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6273200" lon="77.032952">
+ <node id="71" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6272060" lon="77.032914">
+ <node id="72" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6271500" lon="77.032884">
+ <node id="73" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6270590" lon="77.032990">
+ <node id="74" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6270030" lon="77.033088">
+ <node id="75" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6269300" lon="77.033174">
+ <node id="76" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6268520" lon="77.033297">
+ <node id="77" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6267790" lon="77.033395">
+ <node id="78" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6267260" lon="77.033473">
+ <node id="79" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6266000" lon="77.033514">
+ <node id="80" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6264850" lon="77.033578">
+ <node id="81" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6263810" lon="77.033670">
+ <node id="82" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6263050" lon="77.033782">
+ <node id="83" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6262690" lon="77.033888">
+ <node id="84" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6262660" lon="77.034019">
+ <node id="85" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6261460" lon="77.034051">
+ <node id="86" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6260260" lon="77.034078">
+ <node id="87" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6258840" lon="77.034088">
+ <node id="88" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6257690" lon="77.034101">
+ <node id="89" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6256320" lon="77.034114">
+ <node id="90" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6256680" lon="77.034220">
+ <node id="91" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6257070" lon="77.034309">
+ <node id="92" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6257850" lon="77.034423">
+ <node id="93" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6258460" lon="77.034501">
+ <node id="94" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6258930" lon="77.034565">
+ <node id="95" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6256290" lon="77.033947">
+ <node id="96" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6256430" lon="77.033828">
+ <node id="97" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6256650" lon="77.033731">
+ <node id="98" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6256960" lon="77.033620">
+ <node id="99" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6257290" lon="77.033529">
+ <node id="100" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6257620" lon="77.033435">
+ <node id="101" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6257040" lon="77.033301">
+ <node id="102" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6256290" lon="77.033215">
+ <node id="103" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6255510" lon="77.033169">
+ <node id="104" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6254450" lon="77.033123">
+ <node id="105" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6253250" lon="77.033088">
+ <node id="106" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6252420" lon="77.033050">
+ <node id="107" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6251420" lon="77.032992">
+ <node id="108" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6250560" lon="77.032918">
+ <node id="109" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6249870" lon="77.032816">
+ <node id="110" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6249290" lon="77.032716">
+ <node id="111" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6248790" lon="77.032647">
+ <node id="112" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6248260" lon="77.032570">
+ <node id="113" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6249120" lon="77.032481">
+ <node id="114" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6250110" lon="77.032397">
+ <node id="115" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6251040" lon="77.032341">
+ <node id="116" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6252140" lon="77.032280">
+ <node id="117" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6253250" lon="77.032208">
+ <node id="118" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6254470" lon="77.032154">
+ <node id="119" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6255670" lon="77.032113">
+ <node id="120" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6256980" lon="77.032098">
+ <node id="121" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6258230" lon="77.032077">
+ <node id="122" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6259540" lon="77.032070">
+ <node id="123" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6260960" lon="77.032080">
+ <node id="124" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6262180" lon="77.032098">
+ <node id="125" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6263350" lon="77.032133">
+ <node id="126" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6264520" lon="77.032168">
+ <node id="127" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6265740" lon="77.032214">
+ <node id="128" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6266910" lon="77.032263">
+ <node id="129" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6267940" lon="77.032329">
+ <node id="130" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6269110" lon="77.032426">
+ <node id="131" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6270190" lon="77.032531">
+ <node id="132" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6270550" lon="77.032634">
+ <node id="133" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6270470" lon="77.032757">
+ <node id="134" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6253880" lon="77.033280">
+ <node id="135" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6253340" lon="77.033413">
+ <node id="136" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6252830" lon="77.033530">
+ <node id="137" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6252200" lon="77.033702">
+ <node id="138" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6251850" lon="77.033855">
+ <node id="139" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6251600" lon="77.033988">
+ <node id="140" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6251410" lon="77.034153">
+ <node id="141" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6251570" lon="77.034318">
+ <node id="142" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6251950" lon="77.034458">
+ <node id="143" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6252520" lon="77.034591">
+ <node id="144" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6253090" lon="77.034724">
+ <node id="145" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6254170" lon="77.034812">
+ <node id="146" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6255380" lon="77.034865">
+ <node id="147" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6247200" lon="77.032675">
+ <node id="148" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6246000" lon="77.032778">
+ <node id="149" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6245090" lon="77.032888">
+ <node id="150" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6244180" lon="77.033017">
+ <node id="151" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6243240" lon="77.033138">
+ <node id="152" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6271280" lon="77.034988">
+ <node id="153" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6272200" lon="77.034916">
+ <node id="154" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6273460" lon="77.034847">
+ <node id="155" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6274570" lon="77.034789">
+ <node id="156" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6275760" lon="77.034720">
+ <node id="157" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6276900" lon="77.034662">
+ <node id="158" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6277870" lon="77.034590">
+ <node id="159" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6279120" lon="77.034504">
+ <node id="160" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6280230" lon="77.034424">
+ <node id="161" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6281260" lon="77.034313">
+ <node id="162" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6282040" lon="77.034208">
+ <node id="163" visible="true" version="5" changeset="15966089" timestamp="2013-05-03T21:19:45Z" user="Avi_Flamholz" uid="753896" lat="8.6282650" lon="77.034097">
+
+ <way id="1" visible="true" version="1" changeset="21163108" timestamp="2014-03-17T20:58:06Z" user="Rub21_nycbuildings" uid="1781294">
+  <nd ref="0"/>
+  <nd ref="1"/>
+  <nd ref="2"/>
+  <nd ref="3"/>
+  <nd ref="4"/>
+  <nd ref="5"/>
+  <nd ref="6"/>
+  <nd ref="7"/>
+ </way>
+ <way id="2" visible="true" version="1" changeset="21163108" timestamp="2014-03-17T20:58:06Z" user="Rub21_nycbuildings" uid="1781294">
+  <nd ref="8"/>
+  <nd ref="9"/>
+  <nd ref="10"/>
+  <nd ref="11"/>
+  <nd ref="12"/>
+  <nd ref="13"/>
+  <nd ref="14"/>
+  <nd ref="15"/>
+  <nd ref="16"/>
+  <nd ref="17"/>
+  <nd ref="18"/>
+ </way>
+ <way id="3" visible="true" version="1" changeset="21163108" timestamp="2014-03-17T20:58:06Z" user="Rub21_nycbuildings" uid="1781294">
+  <nd ref="18"/>
+  <nd ref="19"/>
+  <nd ref="20"/>
+  <nd ref="21"/>
+  <nd ref="22"/>
+  <nd ref="23"/>
+  <nd ref="24"/>
+  <nd ref="25"/>
+  <nd ref="26"/>
+  <nd ref="27"/>
+  <nd ref="28"/>
+  <nd ref="29"/>
+  <nd ref="30"/>
+  <nd ref="31"/>
+  <nd ref="32"/>
+  <nd ref="33"/>
+  <nd ref="34"/>
+  <nd ref="35"/>
+  <nd ref="36"/>
+  <nd ref="37"/>
+  <nd ref="38"/>
+  <nd ref="39"/>
+  <nd ref="40"/>
+  <nd ref="41"/>
+  <nd ref="42"/>
+  <nd ref="43"/>
+  <nd ref="44"/>
+  <nd ref="45"/>
+  <nd ref="46"/>
+  <nd ref="47"/>
+  <nd ref="48"/>
+ </way>
+ <way id="4" visible="true" version="1" changeset="21163108" timestamp="2014-03-17T20:58:06Z" user="Rub21_nycbuildings" uid="1781294">
+  <nd ref="48"/>
+  <nd ref="49"/>
+  <nd ref="50"/>
+  <nd ref="51"/>
+  <nd ref="52"/>
+  <nd ref="53"/>
+  <nd ref="54"/>
+  <nd ref="55"/>
+  <nd ref="56"/>
+  <nd ref="57"/>
+  <nd ref="58"/>
+  <nd ref="59"/>
+  <nd ref="60"/>
+ </way>
+ <way id="5" visible="true" version="1" changeset="21163108" timestamp="2014-03-17T20:58:06Z" user="Rub21_nycbuildings" uid="1781294">
+  <nd ref="60"/>
+  <nd ref="61"/>
+  <nd ref="62"/>
+  <nd ref="63"/>
+  <nd ref="64"/>
+  <nd ref="65"/>
+  <nd ref="66"/>
+  <nd ref="67"/>
+  <nd ref="68"/>
+  <nd ref="69"/>
+  <nd ref="70"/>
+  <nd ref="71"/>
+ </way>
+ <way id="6" visible="true" version="1" changeset="21163108" timestamp="2014-03-17T20:58:06Z" user="Rub21_nycbuildings" uid="1781294">
+  <nd ref="71"/>
+  <nd ref="72"/>
+  <nd ref="73"/>
+  <nd ref="74"/>
+  <nd ref="75"/>
+  <nd ref="76"/>
+  <nd ref="77"/>
+  <nd ref="78"/>
+  <nd ref="79"/>
+  <nd ref="80"/>
+  <nd ref="81"/>
+  <nd ref="82"/>
+  <nd ref="83"/>
+  <nd ref="84"/>
+  <nd ref="85"/>
+  <nd ref="86"/>
+  <nd ref="87"/>
+  <nd ref="88"/>
+ </way>
+ <way id="7" visible="true" version="1" changeset="21163108" timestamp="2014-03-17T20:58:06Z" user="Rub21_nycbuildings" uid="1781294">
+  <nd ref="88"/>
+  <nd ref="89"/>
+  <nd ref="90"/>
+  <nd ref="91"/>
+  <nd ref="92"/>
+  <nd ref="93"/>
+  <nd ref="0"/>
+ </way>
+ <way id="8" visible="true" version="1" changeset="21163108" timestamp="2014-03-17T20:58:06Z" user="Rub21_nycbuildings" uid="1781294">
+  <nd ref="88"/>
+  <nd ref="94"/>
+  <nd ref="95"/>
+  <nd ref="96"/>
+  <nd ref="97"/>
+  <nd ref="98"/>
+  <nd ref="99"/>
+ </way>
+ <way id="9" visible="true" version="1" changeset="21163108" timestamp="2014-03-17T20:58:06Z" user="Rub21_nycbuildings" uid="1781294">
+  <nd ref="99"/>
+  <nd ref="100"/>
+  <nd ref="101"/>
+  <nd ref="102"/>
+  <nd ref="103"/>
+  <nd ref="104"/>
+  <nd ref="105"/>
+  <nd ref="106"/>
+  <nd ref="107"/>
+  <nd ref="108"/>
+  <nd ref="109"/>
+  <nd ref="110"/>
+  <nd ref="111"/>
+ </way>
+ <way id="10" visible="true" version="1" changeset="21163108" timestamp="2014-03-17T20:58:06Z" user="Rub21_nycbuildings" uid="1781294">
+  <nd ref="111"/>
+  <nd ref="112"/>
+  <nd ref="113"/>
+  <nd ref="114"/>
+  <nd ref="115"/>
+  <nd ref="116"/>
+  <nd ref="117"/>
+  <nd ref="118"/>
+  <nd ref="119"/>
+  <nd ref="120"/>
+  <nd ref="121"/>
+  <nd ref="122"/>
+  <nd ref="123"/>
+  <nd ref="124"/>
+  <nd ref="125"/>
+  <nd ref="126"/>
+  <nd ref="127"/>
+  <nd ref="128"/>
+  <nd ref="129"/>
+  <nd ref="130"/>
+  <nd ref="131"/>
+  <nd ref="132"/>
+  <nd ref="71"/>
+ </way>
+ <way id="11" visible="true" version="1" changeset="21163108" timestamp="2014-03-17T20:58:06Z" user="Rub21_nycbuildings" uid="1781294">
+  <nd ref="103"/>
+  <nd ref="133"/>
+  <nd ref="134"/>
+  <nd ref="135"/>
+  <nd ref="136"/>
+  <nd ref="137"/>
+  <nd ref="138"/>
+  <nd ref="139"/>
+  <nd ref="140"/>
+  <nd ref="141"/>
+  <nd ref="142"/>
+  <nd ref="143"/>
+  <nd ref="144"/>
+  <nd ref="145"/>
+  <nd ref="7"/>
+ </way>
+ <way id="12" visible="true" version="1" changeset="21163108" timestamp="2014-03-17T20:58:06Z" user="Rub21_nycbuildings" uid="1781294">
+  <nd ref="111"/>
+  <nd ref="146"/>
+  <nd ref="147"/>
+  <nd ref="148"/>
+  <nd ref="149"/>
+  <nd ref="150"/>
+ </way>
+ <way id="13" visible="true" version="1" changeset="21163108" timestamp="2014-03-17T20:58:06Z" user="Rub21_nycbuildings" uid="1781294">
+  <nd ref="27"/>
+  <nd ref="151"/>
+  <nd ref="152"/>
+  <nd ref="153"/>
+  <nd ref="154"/>
+  <nd ref="155"/>
+  <nd ref="156"/>
+  <nd ref="157"/>
+  <nd ref="158"/>
+  <nd ref="159"/>
+  <nd ref="160"/>
+  <nd ref="161"/>
+  <nd ref="162"/>
+ </way>
+</osm>
